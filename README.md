@@ -1,5 +1,4 @@
-# 🛠️ Agile QA Management Hub
-
+# 🛠️ Control de gestion de calidad agil
 <div align="center">
 
 ![QA](https://img.shields.io/badge/Quality-Assurance-blue?style=for-the-badge)
