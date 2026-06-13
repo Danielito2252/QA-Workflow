@@ -20,7 +20,8 @@ Una descripción clara, concisa y técnica del comportamiento inesperado detecta
 * **Actual:** El sistema muestra un error 500 y congela la pantalla.
 
 ## 📸 Evidencias (Screenshots / Logs)
-*(Arrastra tus imágenes, capturas de pantalla de Cypress o logs del Pipeline de Jenkins aquí)*[cite: 1]
+<img width="1366" height="563" alt="stage-view-failed" src="https://github.com/user-attachments/assets/80f67333-c264-4cca-b772-82998a57e046" />
+[cite: 1]
 
 ## 💻 Datos del Entorno
 * **Navegador / Engine:** [ej. Headless Electron, Chrome 124]
