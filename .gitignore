@@ -1,0 +1,15 @@
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# IDEs y Editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Reportes Locales Temporales
+*.log
+npm-debug.log*
